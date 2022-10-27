@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: equipo-sebas
 
 steps:
 - task: NodeTool@0
